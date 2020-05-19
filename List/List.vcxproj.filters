@@ -5,82 +5,81 @@
       <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
       <Extensions>cpp;c;cc;cxx;c++;def;odl;idl;hpj;bat;asm;asmx</Extensions>
     </Filter>
-    <Filter Include="头文件">
-      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
-      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
-    </Filter>
     <Filter Include="资源文件">
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{aaff4e8a-3bef-4b08-a4ad-d6be9a48c808}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="List.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\未有\source\repos\WeiYiuDataStructNoteD\WeiYiuDataStructNoteD\ArrayList.cpp">
+    <ClCompile Include="ArrayList.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\未有\source\repos\WeiYiuDataStructNoteD\WeiYiuDataStructNoteD\ArrayLIstTestMain.cpp">
+    <ClCompile Include="ArrayLIstTestMain.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\未有\source\repos\WeiYiuDataStructNoteD\WeiYiuDataStructNoteD\CircluarLinkListTestMain.cpp">
+    <ClCompile Include="CircluarLinkListTestMain.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\未有\source\repos\WeiYiuDataStructNoteD\WeiYiuDataStructNoteD\CircularLinkList.cpp">
+    <ClCompile Include="CircularLinkList.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\未有\source\repos\WeiYiuDataStructNoteD\WeiYiuDataStructNoteD\DoubleCircularLinkList.cpp">
+    <ClCompile Include="DoubleCircularLinkList.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\未有\source\repos\WeiYiuDataStructNoteD\WeiYiuDataStructNoteD\DoubleCircularLinkListTestMain.cpp">
+    <ClCompile Include="DoubleCircularLinkListTestMain.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\未有\source\repos\WeiYiuDataStructNoteD\WeiYiuDataStructNoteD\DoubleLinkList.cpp">
+    <ClCompile Include="DoubleLinkList.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\未有\source\repos\WeiYiuDataStructNoteD\WeiYiuDataStructNoteD\DoubleLinkListNode.cpp">
+    <ClCompile Include="DoubleLinkListNode.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\未有\source\repos\WeiYiuDataStructNoteD\WeiYiuDataStructNoteD\DoubleLinkListTestMain.cpp">
+    <ClCompile Include="DoubleLinkListTestMain.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\未有\source\repos\WeiYiuDataStructNoteD\WeiYiuDataStructNoteD\LinkList.cpp">
+    <ClCompile Include="LinkList.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\未有\source\repos\WeiYiuDataStructNoteD\WeiYiuDataStructNoteD\LinkListApplication.cpp">
+    <ClCompile Include="LinkListApplication.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\未有\source\repos\WeiYiuDataStructNoteD\WeiYiuDataStructNoteD\LinkListNode.cpp">
+    <ClCompile Include="LinkListNode.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\未有\source\repos\WeiYiuDataStructNoteD\WeiYiuDataStructNoteD\LinkLIstTestMain.cpp">
+    <ClCompile Include="LinkLIstTestMain.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="C:\Users\未有\source\repos\WeiYiuDataStructNoteD\WeiYiuDataStructNoteD\ArrayList.h">
+    <ClInclude Include="ArrayList.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\未有\source\repos\WeiYiuDataStructNoteD\WeiYiuDataStructNoteD\CircularLinkList.h">
+    <ClInclude Include="CircularLinkList.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\未有\source\repos\WeiYiuDataStructNoteD\WeiYiuDataStructNoteD\DoubleCircularLinkList.h">
+    <ClInclude Include="DoubleCircularLinkList.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\未有\source\repos\WeiYiuDataStructNoteD\WeiYiuDataStructNoteD\DoubleLinkList.h">
+    <ClInclude Include="DoubleLinkList.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\未有\source\repos\WeiYiuDataStructNoteD\WeiYiuDataStructNoteD\DoubleLinkListNode.h">
+    <ClInclude Include="DoubleLinkListNode.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\未有\source\repos\WeiYiuDataStructNoteD\WeiYiuDataStructNoteD\LinkList.h">
+    <ClInclude Include="LinkList.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\未有\source\repos\WeiYiuDataStructNoteD\WeiYiuDataStructNoteD\LinkListApplication.h">
+    <ClInclude Include="LinkListApplication.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\未有\source\repos\WeiYiuDataStructNoteD\WeiYiuDataStructNoteD\LinkListNode.h">
+    <ClInclude Include="LinkListNode.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

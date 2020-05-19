@@ -147,30 +147,30 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="C:\Users\未有\source\repos\WeiYiuDataStructNoteD\WeiYiuDataStructNoteD\ArrayList.cpp" />
-    <ClCompile Include="C:\Users\未有\source\repos\WeiYiuDataStructNoteD\WeiYiuDataStructNoteD\ArrayLIstTestMain.cpp" />
-    <ClCompile Include="C:\Users\未有\source\repos\WeiYiuDataStructNoteD\WeiYiuDataStructNoteD\CircluarLinkListTestMain.cpp" />
-    <ClCompile Include="C:\Users\未有\source\repos\WeiYiuDataStructNoteD\WeiYiuDataStructNoteD\CircularLinkList.cpp" />
-    <ClCompile Include="C:\Users\未有\source\repos\WeiYiuDataStructNoteD\WeiYiuDataStructNoteD\DoubleCircularLinkList.cpp" />
-    <ClCompile Include="C:\Users\未有\source\repos\WeiYiuDataStructNoteD\WeiYiuDataStructNoteD\DoubleCircularLinkListTestMain.cpp" />
-    <ClCompile Include="C:\Users\未有\source\repos\WeiYiuDataStructNoteD\WeiYiuDataStructNoteD\DoubleLinkList.cpp" />
-    <ClCompile Include="C:\Users\未有\source\repos\WeiYiuDataStructNoteD\WeiYiuDataStructNoteD\DoubleLinkListNode.cpp" />
-    <ClCompile Include="C:\Users\未有\source\repos\WeiYiuDataStructNoteD\WeiYiuDataStructNoteD\DoubleLinkListTestMain.cpp" />
-    <ClCompile Include="C:\Users\未有\source\repos\WeiYiuDataStructNoteD\WeiYiuDataStructNoteD\LinkList.cpp" />
-    <ClCompile Include="C:\Users\未有\source\repos\WeiYiuDataStructNoteD\WeiYiuDataStructNoteD\LinkListApplication.cpp" />
-    <ClCompile Include="C:\Users\未有\source\repos\WeiYiuDataStructNoteD\WeiYiuDataStructNoteD\LinkListNode.cpp" />
-    <ClCompile Include="C:\Users\未有\source\repos\WeiYiuDataStructNoteD\WeiYiuDataStructNoteD\LinkLIstTestMain.cpp" />
+    <ClCompile Include="ArrayList.cpp" />
+    <ClCompile Include="ArrayLIstTestMain.cpp" />
+    <ClCompile Include="CircluarLinkListTestMain.cpp" />
+    <ClCompile Include="CircularLinkList.cpp" />
+    <ClCompile Include="DoubleCircularLinkList.cpp" />
+    <ClCompile Include="DoubleCircularLinkListTestMain.cpp" />
+    <ClCompile Include="DoubleLinkList.cpp" />
+    <ClCompile Include="DoubleLinkListNode.cpp" />
+    <ClCompile Include="DoubleLinkListTestMain.cpp" />
+    <ClCompile Include="LinkList.cpp" />
+    <ClCompile Include="LinkListApplication.cpp" />
+    <ClCompile Include="LinkListNode.cpp" />
+    <ClCompile Include="LinkLIstTestMain.cpp" />
     <ClCompile Include="List.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="C:\Users\未有\source\repos\WeiYiuDataStructNoteD\WeiYiuDataStructNoteD\ArrayList.h" />
-    <ClInclude Include="C:\Users\未有\source\repos\WeiYiuDataStructNoteD\WeiYiuDataStructNoteD\CircularLinkList.h" />
-    <ClInclude Include="C:\Users\未有\source\repos\WeiYiuDataStructNoteD\WeiYiuDataStructNoteD\DoubleCircularLinkList.h" />
-    <ClInclude Include="C:\Users\未有\source\repos\WeiYiuDataStructNoteD\WeiYiuDataStructNoteD\DoubleLinkList.h" />
-    <ClInclude Include="C:\Users\未有\source\repos\WeiYiuDataStructNoteD\WeiYiuDataStructNoteD\DoubleLinkListNode.h" />
-    <ClInclude Include="C:\Users\未有\source\repos\WeiYiuDataStructNoteD\WeiYiuDataStructNoteD\LinkList.h" />
-    <ClInclude Include="C:\Users\未有\source\repos\WeiYiuDataStructNoteD\WeiYiuDataStructNoteD\LinkListApplication.h" />
-    <ClInclude Include="C:\Users\未有\source\repos\WeiYiuDataStructNoteD\WeiYiuDataStructNoteD\LinkListNode.h" />
+    <ClInclude Include="ArrayList.h" />
+    <ClInclude Include="CircularLinkList.h" />
+    <ClInclude Include="DoubleCircularLinkList.h" />
+    <ClInclude Include="DoubleLinkList.h" />
+    <ClInclude Include="DoubleLinkListNode.h" />
+    <ClInclude Include="LinkList.h" />
+    <ClInclude Include="LinkListApplication.h" />
+    <ClInclude Include="LinkListNode.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
