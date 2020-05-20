@@ -3,17 +3,23 @@
 #ifndef LINKSTACHNODE_H
 #define LINKSTACHNODE_H
 
+/*
+Time:2020-05-20
+Author:WeiYiu
+C++ Á´Õ»½áµã int
+*/
+
 class LinkStackNode {
 public:
 	LinkStackNode();
 	~LinkStackNode();
-	int* getTop();
-	void setTop(int* _top);
+	int getData();
+	void setData(int _data);
 	LinkStackNode* getNext();
 	void setNext(LinkStackNode* _next);
 
 private:
-	int* top;
+	int data;
 	LinkStackNode* next;
 };
 

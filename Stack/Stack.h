@@ -3,6 +3,14 @@
 #ifndef STACK_H
 #define STACK_H
 
+
+/*
+Time:2020-05-20
+Author:WeiYiu
+C++ À≥–Ú’ª int
+*/
+
+
 class Stack{
 public:
 	Stack();

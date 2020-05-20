@@ -147,7 +147,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="LinkStack.cpp" />
     <ClCompile Include="LinkStack.h" />
+    <ClCompile Include="LinkStackTestMain.cpp" />
     <ClCompile Include="LinkStcakNode.cpp" />
     <ClCompile Include="Stack.cpp" />
     <ClCompile Include="StackTestMain.cpp" />
