@@ -3,7 +3,7 @@
 
 #include <iostream>
 
-int main()
+int Listmain()
 {
     std::cout << "Hello World!\n";
     return 0;

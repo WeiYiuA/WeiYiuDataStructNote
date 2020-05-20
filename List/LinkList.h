@@ -1,9 +1,9 @@
 #pragma once
 
-#include "LinkListNode.h"
-
 #ifndef LINKLIST_H
 #define LINKLIST_H
+
+#include "LinkListNode.h"
 
 /*
 Time:2020-05-17

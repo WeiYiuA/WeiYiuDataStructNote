@@ -1,11 +1,12 @@
 #pragma once
 
+#ifndef LINKLISTAPPLICATION_H
+#define LINKLISTAPPLICATION_H
+
 #include "LinkListNode.h"
 #include "LinkList.h"
 #include <iostream>
 
-#ifndef LINKLISTAPPLICATION_H
-#define LINKLISTAPPLICATION_H
 
 /*
 Time:2020-05-17

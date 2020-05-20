@@ -1,9 +1,10 @@
 #pragma once
 
-#include "DoubleLinkListNode.h"
 
 #ifndef DOUBLELINKLIST_H
 #define DOUBLELINKLIST_H
+
+#include "DoubleLinkListNode.h"
 
 /*
 Time:2020-05-19
